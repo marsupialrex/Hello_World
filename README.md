@@ -1,2 +1,2 @@
 # Hello_World
-First time using GItHub test
+First time using GitHub test
