@@ -2,4 +2,4 @@
 
   First time using GitHub.
 
-I'll make some real projescts.
+I'll make some real projects.
